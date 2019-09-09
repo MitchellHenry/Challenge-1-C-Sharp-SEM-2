@@ -1,0 +1,9 @@
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\bin\Debug\netstandard2.0\Shapes Class Library.deps.json
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\bin\Debug\netstandard2.0\Shapes Class Library.dll
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\bin\Debug\netstandard2.0\Shapes Class Library.pdb
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.csprojAssemblyReference.cache
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.AssemblyInfoInputs.cache
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.AssemblyInfo.cs
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.dll
+C:\Users\Mitchell\source\repos\Challenge-1-C-Sharp-SEM-2\Shapes Program\Shapes Class Library\obj\Debug\netstandard2.0\Shapes Class Library.pdb
